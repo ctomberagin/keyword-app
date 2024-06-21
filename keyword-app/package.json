@@ -13,6 +13,7 @@
     "@jridgewell/sourcemap-codec": "^1.4.8",
     "workbox-cacheable-response": "^6.6.0",
     "workbox-google-analytics": "^6.6.0",
-    "svgo": "^2.0.0"
+    "svgo": "^2.0.0",
+    // Add a comma after the selected line
   }
 }
